@@ -23,5 +23,6 @@ List of a simple activities in C#
 (a) leia dois valores x e y, calcule e escreva o produto (x ∗ y), através de adições sucessivas;
 (b) leia dois valores x e y, calcule e escreva a potência (x^y), através de multiplicações sucessivas.
 
-# 5. Faça um programa em C# que leia um número inteiro positivo n e escreva todos os seus divisores.
+# 5. Faça um programa em C# que: 
+- leia um número inteiro positivo n e escreva todos os seus divisores.
 
