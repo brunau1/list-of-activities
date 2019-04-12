@@ -1,7 +1,7 @@
 # List of activities
 List of a simple activities in C#
 
-# DESCRIPTION _________________________________________________________________________
+# DESCRIPTION _______________________________________________
 
 # 1. Faça programas em C# que:
 (a) escreva todos os números inteiros de 0 a 50;
